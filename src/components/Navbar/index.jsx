@@ -4,7 +4,7 @@ import { NavLink } from "react-router";
 const Navbar = () => {
   return (
     <>
-      <div className="w-[1500px]  m-auto">
+      <div className="w-[250px] border">
         <div className="p-[10px] border-r border-[#F5F5F5] w-[243px]  h-[571.2px]">
           <ul className="flex flex-col gap-[10px] w-[220px]">
             <li className=" w-[220px]  rounded-[12px]  ">

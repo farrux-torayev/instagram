@@ -56,8 +56,8 @@ const Login = () => {
         </h2>
         <form onSubmit={handleSubmit} className="flex flex-col justify-center">
           <input
-            type="email"
-            name="email"
+            type="text"
+            name="login"
             placeholder="Телефон, имя пользователя или эл. адрес"
             className="w-[300px] p-2  outline-none  ml-[15px] text-[14px] border border-gray-300 rounded mb-2 bg-gray-50"
           />
